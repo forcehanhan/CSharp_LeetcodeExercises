@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises.csproj": {}
+    "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习001_两数之和\\基础练习001_两数之和.csproj": {}
   },
   "projects": {
-    "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises.csproj": {
+    "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习001_两数之和\\基础练习001_两数之和.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises.csproj",
-        "projectName": "CSharp_LeetcodeExercises",
-        "projectPath": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises.csproj",
+        "projectUniqueName": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习001_两数之和\\基础练习001_两数之和.csproj",
+        "projectName": "基础练习001_两数之和",
+        "projectPath": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习001_两数之和\\基础练习001_两数之和.csproj",
         "packagesPath": "C:\\Users\\hanjunjie\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\obj\\",
+        "outputPath": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习001_两数之和\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
