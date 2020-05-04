@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习003_\\基础练习003_.csproj",
-      "projectName": "基础练习003_",
-      "projectPath": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习003_\\基础练习003_.csproj",
+      "projectUniqueName": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习003_\\基础练习003_无重复字符的最长子串.csproj",
+      "projectName": "基础练习003_无重复字符的最长子串",
+      "projectPath": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习003_\\基础练习003_无重复字符的最长子串.csproj",
       "packagesPath": "C:\\Users\\hanjunjie\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习003_\\obj\\",
       "projectStyle": "PackageReference",

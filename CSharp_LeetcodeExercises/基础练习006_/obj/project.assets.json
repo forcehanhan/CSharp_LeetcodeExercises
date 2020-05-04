@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习006_\\基础练习006_.csproj",
-      "projectName": "基础练习006_",
-      "projectPath": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习006_\\基础练习006_.csproj",
+      "projectUniqueName": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习006_\\基础练习006_Z字形变换.csproj",
+      "projectName": "基础练习006_Z字形变换",
+      "projectPath": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习006_\\基础练习006_Z字形变换.csproj",
       "packagesPath": "C:\\Users\\hanjunjie\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习006_\\obj\\",
       "projectStyle": "PackageReference",

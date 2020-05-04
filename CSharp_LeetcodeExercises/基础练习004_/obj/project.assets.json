@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习004_\\基础练习004_.csproj",
-      "projectName": "基础练习004_",
-      "projectPath": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习004_\\基础练习004_.csproj",
+      "projectUniqueName": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习004_\\基础练习004_寻找两个有序数组的中位数.csproj",
+      "projectName": "基础练习004_寻找两个有序数组的中位数",
+      "projectPath": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习004_\\基础练习004_寻找两个有序数组的中位数.csproj",
       "packagesPath": "C:\\Users\\hanjunjie\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub2020\\CSharp_LeetcodeExercises\\CSharp_LeetcodeExercises\\基础练习004_\\obj\\",
       "projectStyle": "PackageReference",

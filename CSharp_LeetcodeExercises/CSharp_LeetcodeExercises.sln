@@ -9,13 +9,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "基础练习001_两数之�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "基础练习002_两数相加", "基础练习002_两数相加\基础练习002_两数相加.csproj", "{9200DA5D-A3F6-4A60-89DE-4C9F70417016}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "基础练习003_", "基础练习003_\基础练习003_.csproj", "{0DF491BD-8A57-42D7-BC5A-5974DDB60FFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "基础练习003_无重复字符的最长子串", "基础练习003_\基础练习003_无重复字符的最长子串.csproj", "{0DF491BD-8A57-42D7-BC5A-5974DDB60FFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "基础练习004_", "基础练习004_\基础练习004_.csproj", "{28E07128-F516-4503-81A4-C42778E6CD35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "基础练习004_寻找两个有序数组的中位数", "基础练习004_\基础练习004_寻找两个有序数组的中位数.csproj", "{28E07128-F516-4503-81A4-C42778E6CD35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "基础练习005_", "基础练习005_\基础练习005_.csproj", "{64B63518-36EB-4EC9-97B3-C9200FE2BC47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "基础练习005_最长回文子串", "基础练习005_\基础练习005_最长回文子串.csproj", "{64B63518-36EB-4EC9-97B3-C9200FE2BC47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "基础练习006_", "基础练习006_\基础练习006_.csproj", "{98AE620B-8569-4278-BC78-77EDBBDF6200}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "基础练习006_Z字形变换", "基础练习006_\基础练习006_Z字形变换.csproj", "{98AE620B-8569-4278-BC78-77EDBBDF6200}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "基础练习007_整数反转", "基础练习007_\基础练习007_整数反转.csproj", "{8A603586-25DC-41D4-BC2C-C83EBDF10759}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "基础练习008_字符串转换整数", "基础练习008_\基础练习008_字符串转换整数.csproj", "{38A384C9-72CF-4F86-8168-D66E5A1D4289}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "基础练习009_回文数", "基础练习009_\基础练习009_回文数.csproj", "{19DA7497-8038-4F11-AC17-D432ADD9C6A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "基础练习010_正则表达式匹配", "基础练习010_\基础练习010_正则表达式匹配.csproj", "{903E01D4-B408-48CF-A7D3-91062A31540F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "基础练习011_盛最多水的容器", "基础练习011_\基础练习011_盛最多水的容器.csproj", "{8608BCFA-C042-4ECA-94F9-32D271E4A09E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "基础练习012_", "基础练习012_\基础练习012_.csproj", "{6A1C3116-DE6F-4FA4-8418-2C23CD7854DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +63,30 @@ Global
 		{98AE620B-8569-4278-BC78-77EDBBDF6200}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98AE620B-8569-4278-BC78-77EDBBDF6200}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98AE620B-8569-4278-BC78-77EDBBDF6200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A603586-25DC-41D4-BC2C-C83EBDF10759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A603586-25DC-41D4-BC2C-C83EBDF10759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A603586-25DC-41D4-BC2C-C83EBDF10759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A603586-25DC-41D4-BC2C-C83EBDF10759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A384C9-72CF-4F86-8168-D66E5A1D4289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A384C9-72CF-4F86-8168-D66E5A1D4289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A384C9-72CF-4F86-8168-D66E5A1D4289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A384C9-72CF-4F86-8168-D66E5A1D4289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DA7497-8038-4F11-AC17-D432ADD9C6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DA7497-8038-4F11-AC17-D432ADD9C6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DA7497-8038-4F11-AC17-D432ADD9C6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DA7497-8038-4F11-AC17-D432ADD9C6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{903E01D4-B408-48CF-A7D3-91062A31540F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903E01D4-B408-48CF-A7D3-91062A31540F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903E01D4-B408-48CF-A7D3-91062A31540F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903E01D4-B408-48CF-A7D3-91062A31540F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8608BCFA-C042-4ECA-94F9-32D271E4A09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8608BCFA-C042-4ECA-94F9-32D271E4A09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8608BCFA-C042-4ECA-94F9-32D271E4A09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8608BCFA-C042-4ECA-94F9-32D271E4A09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A1C3116-DE6F-4FA4-8418-2C23CD7854DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1C3116-DE6F-4FA4-8418-2C23CD7854DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1C3116-DE6F-4FA4-8418-2C23CD7854DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1C3116-DE6F-4FA4-8418-2C23CD7854DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
